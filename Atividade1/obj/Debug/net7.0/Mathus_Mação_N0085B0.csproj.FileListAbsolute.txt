@@ -1,0 +1,14 @@
+C:\Users\matheus.macao\Desktop\Mathus_Mação_N0085B0\bin\Debug\net7.0\Mathus_Mação_N0085B0.exe
+C:\Users\matheus.macao\Desktop\Mathus_Mação_N0085B0\bin\Debug\net7.0\Mathus_Mação_N0085B0.deps.json
+C:\Users\matheus.macao\Desktop\Mathus_Mação_N0085B0\bin\Debug\net7.0\Mathus_Mação_N0085B0.runtimeconfig.json
+C:\Users\matheus.macao\Desktop\Mathus_Mação_N0085B0\bin\Debug\net7.0\Mathus_Mação_N0085B0.dll
+C:\Users\matheus.macao\Desktop\Mathus_Mação_N0085B0\bin\Debug\net7.0\Mathus_Mação_N0085B0.pdb
+C:\Users\matheus.macao\Desktop\Mathus_Mação_N0085B0\obj\Debug\net7.0\Mathus_Mação_N0085B0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.macao\Desktop\Mathus_Mação_N0085B0\obj\Debug\net7.0\Mathus_Mação_N0085B0.AssemblyInfoInputs.cache
+C:\Users\matheus.macao\Desktop\Mathus_Mação_N0085B0\obj\Debug\net7.0\Mathus_Mação_N0085B0.AssemblyInfo.cs
+C:\Users\matheus.macao\Desktop\Mathus_Mação_N0085B0\obj\Debug\net7.0\Mathus_Mação_N0085B0.csproj.CoreCompileInputs.cache
+C:\Users\matheus.macao\Desktop\Mathus_Mação_N0085B0\obj\Debug\net7.0\Mathus_Mação_N0085B0.dll
+C:\Users\matheus.macao\Desktop\Mathus_Mação_N0085B0\obj\Debug\net7.0\refint\Mathus_Mação_N0085B0.dll
+C:\Users\matheus.macao\Desktop\Mathus_Mação_N0085B0\obj\Debug\net7.0\Mathus_Mação_N0085B0.pdb
+C:\Users\matheus.macao\Desktop\Mathus_Mação_N0085B0\obj\Debug\net7.0\Mathus_Mação_N0085B0.genruntimeconfig.cache
+C:\Users\matheus.macao\Desktop\Mathus_Mação_N0085B0\obj\Debug\net7.0\ref\Mathus_Mação_N0085B0.dll
