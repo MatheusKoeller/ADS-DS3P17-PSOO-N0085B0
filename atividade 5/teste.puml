@@ -1,0 +1,18 @@
+@startuml Folha de Pagamento
+
+title Processo de Folha de Pagamento
+
+actor Funcionário
+participant RH
+participant Sistema_Interno
+
+Funcionário -> RH: 1. Fornece Dados
+RH --> RH: 2. Valida Dados
+RH -> Sistema_Interno: 3. Envia Dados para Cálculos
+Sistema_Interno --> RH: 4. Confirma Recebimento de Dados
+Sistema_Interno -> Sistema_Interno: 5. Realiza Cálculos
+Sistema_Interno --> RH: 6. Envia Resultados de Cálculos
+RH -> RH: 7. Gera Folha de Pagamento
+RH --> Funcionário: 8. Entrega Folha de Pagamento
+
+@enduml
